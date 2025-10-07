@@ -7,7 +7,8 @@
 ---
 
 ##  Overview
-This lab explores four ways to build counters in Verilog 2001:
+This lab explores four ways to build counters in Verilog :
+
 1. A structural 8-bit T-Flip-Flop counter  
 2. A behavioral 16-bit counter (Q <= Q + 1)  
 3. An LPM (lpm_counter) implementation  
